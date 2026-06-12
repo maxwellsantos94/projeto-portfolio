@@ -2,22 +2,12 @@
 
 Este projeto foi desenvolvido utilizando **React + Vite** como parte dos estudos de Desenvolvimento de Aplicações Multiplataforma.
 
-## 📋 Funcionalidades
-
-* ✅ Estrutura criada com Vite
-* ✅ Componentização em React
-* ✅ Reutilização de componentes com Props
-* ✅ Gerenciamento de estado com `useState`
-* ✅ Renderização dinâmica utilizando `.map()`
-* ✅ Estilização com Tailwind
-
 ## 🛠️ Tecnologias Utilizadas
 
 * React
 * Vite
 * JavaScript
 * Tailwind
-
 
 ## 📚 Objetivo
 
